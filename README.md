@@ -1,7 +1,7 @@
 ### Merhaba <img src="./Icons/Hi.gif" height="32" />, back-end developer yeterli :)
 
 - 🌱 Yeni teknolojiler(Kubernetes, RabbitMQ vb.) üzerinde kendimi geliştiriyorum.
-- 🔭 Şuan [TeamGram](https://www.teamgram.com/main/tr/)'de çalışıyorum.
+- 🔭 Şuan [TeamGram](https://www.teamgram.com/main/tr/)'da çalışıyorum.
 - ⚡ Multiplayer oyunlara bayılırım :)
 
 📕 &nbsp;**Yazılarım**
